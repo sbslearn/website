@@ -3,4 +3,5 @@ insert3.sql,/db_files/scripts
 insert.sql,/db_files/scripts
 update_loacl.sql,/db_files/scripts
 update_loacl2.sql,/db_files/scripts
+update3.sql,/db_files/scripts
 
