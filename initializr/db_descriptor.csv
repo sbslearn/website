@@ -1,4 +1,5 @@
-update.sql,/db_files/scripts
+update_first.sql,/db_files/scripts
 insert3.sql,/db_files/scripts
 insert.sql,/db_files/scripts
 update3.sql,/db_files/scripts
+update4.sql,/db_files/scripts
