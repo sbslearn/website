@@ -1,4 +1,6 @@
 update.sql,/db_files/scripts
+<<<<<<< HEAD
 insert3.sql,/db_files/scripts
+=======
 insert.sql,/db_files/scripts
-
+>>>>>>> 2c4ceded789bb77523ecafbc44130675c9edb8e4
